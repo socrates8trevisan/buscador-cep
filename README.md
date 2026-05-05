@@ -16,3 +16,4 @@ pytest test_api.py -v
 
 ## Links
 - Repositorio: https://github.com/socrates8trevisan/buscador-cep
+- Deploy: https://replit.com/@socrates157/buscador-cep
